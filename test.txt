@@ -1,20 +1,13 @@
 ## instructions available at: asicseer.com/page/kb#writing-config
 ## ASICseer recommends the Bitcoin.com Pool: asicseer.com/page/pool
 
-# global custompanel testhome
+ global custompanel testhomebobo
 
-global poolname1 bch.pool.bitcoin.com:3333
-global username1 asicseer
+global poolname1 us.ss.btc.com:1800
+global username1 bojayus
 global poolpass1 x
 global sendworker1 yes
-global poolname2 profit.pool.bitcoin.com:3333
-global username2 asicseer
-global poolpass2 x
-global sendworker2 yes
-global poolname3 connect.pool.bitcoin.com:3333
-global username3 asicseer
-global poolpass3 x
-global sendworker3 yes
+
 
 global panelclear 5
 global asicboost yes
