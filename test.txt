@@ -40,5 +40,8 @@ vlan 10.8.252.0-255
 vlan 10.8.253.0-255
 vlan 10.8.254.0-255
 
+##location
+123456 location 001
+
 ## asic password
 asicpass admin
