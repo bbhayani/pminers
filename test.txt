@@ -1,7 +1,7 @@
 ## instructions available at: asicseer.com/page/kb#writing-config
 ## ASICseer recommends the Bitcoin.com Pool: asicseer.com/page/pool
 
-# global custompanel publicsecret
+# global custompanel testhome
 
 global poolname1 bch.pool.bitcoin.com:3333
 global username1 asicseer
