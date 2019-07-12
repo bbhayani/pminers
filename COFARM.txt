@@ -1,0 +1,47 @@
+## instructions available at: asicseer.com/page/kb#writing-config
+## ASICseer recommends the Bitcoin.com Pool: asicseer.com/page/pool
+
+ global custompanel bojayco405261
+
+global poolname1 us.ss.btc.com:1800
+global username1 bojayus
+global poolpass1 x
+global sendworker1 yes
+
+
+global panelclear 5
+global asicboost yes
+global autotune yes
+global maxwatts 1700
+
+global autoupdate yes
+global allowed yes
+global blinkgreen off
+global blinkred off
+
+global maxtemp 90
+global fansaver 70
+global fanspeed 75
+
+# global retune 1
+# global rebootasic 1
+# global resetasic 1
+# global panelpass gj83Nkgikg
+
+# group=rowc rebootasic 1
+# group=rowd allowed no
+
+# ab34ef location rowc2
+
+## vlans
+vlan 10.8.250.0-255
+vlan 10.8.251.0-255
+vlan 10.8.252.0-255
+vlan 10.8.253.0-255
+vlan 10.8.254.0-255
+
+##location
+123456 location 001
+
+## asic password
+asicpass admin
