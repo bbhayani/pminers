@@ -34,7 +34,7 @@ global fanspeed 75
 # ab34ef location rowc2
 
 ## vlans
-vlan 10.21.1.0-255
+vlan 10.21.1.27-255
 
 
 ##location
