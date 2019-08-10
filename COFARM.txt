@@ -12,7 +12,7 @@ global sendworker1 yes
 global panelclear 5
 global asicboost yes
 global autotune yes
-global maxwatts 1700
+global maxwatts 1500
 
 global autoupdate yes
 global allowed yes
