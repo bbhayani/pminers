@@ -41,5 +41,10 @@ vlan 10.21.1.0-255
 ##location
 
 
+
+08181d rebootasic 1565415173 # 10.21.1.74 set1
+a84877 rebootasic 1565415173 # 10.21.1.104 set2
+f0d2ca rebootasic 1565415173 # 10.21.1.39 set3
+
 ## asic password
 asicpass admin
