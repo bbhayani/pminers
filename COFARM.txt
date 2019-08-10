@@ -21,7 +21,7 @@ global blinkred off
 
 global maxtemp 90
 global fansaver 70
-global fanspeed 75
+global fanspeed 100
 
 # global retune 1
 # global rebootasic 1
@@ -35,10 +35,11 @@ global fanspeed 75
 
 ## vlans
 vlan 10.21.1.27-255
+vlan 10.21.1.10-255
 
 
 ##location
-26b30b location 001
+
 
 ## asic password
 asicpass admin
