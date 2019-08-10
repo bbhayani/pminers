@@ -38,7 +38,7 @@ vlan 10.21.1.27-255
 
 
 ##location
-123456 location 001
+26b30b location 001
 
 ## asic password
 asicpass admin
