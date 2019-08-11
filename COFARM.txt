@@ -64,12 +64,10 @@ e434e1 username1 c40531 #accounted
 
 ##location
 
-
-2a4d5d rebootasic 1565508484 # 10.21.1.32 set1 
-9ebaa3 rebootasic 1565508484 # 10.21.1.23 set2 
-b6f079 rebootasic 1565508484 # 10.21.1.82 antminers9-48 
-d01b02 rebootasic 1565508484 # 10.21.1.64 set4 
-ef76b1 rebootasic 1565508484 # 10.21.1.142 set5
+2a4d5d rebootasic 1565546777 # 10.21.1.32 set1
+4502cf rebootasic 1565546777 # 10.21.1.144 set2
+ebf45a rebootasic 1565546777 # 10.21.1.22 antminers9-36
+d01b02 rebootasic 1565546777 # 10.21.1.64 set4
 
 ## asic password
 asicpass admin
