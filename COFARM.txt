@@ -39,7 +39,27 @@ global fanspeed 100
 ## vlans
 vlan 10.21.1.0-255
 
-
+#Tony miners(20)
+aa6166 username1 C40531 #accounted
+2a4d5d username1 C40531 #accounted
+7a1988 username1 C40531 #accounted
+8d2d50 username1 C40531 #accounted
+9c9f00 username1 C40531 #accounted
+9dc30d username1 C40531 #accounted
+251648 username1 C40531 #accounted
+9000ac username1 C40531 #accounted
+e5e76f username1 C40531 #accounted
+e54644 username1 C40531 #accounted
+d0900f username1 C40531 #accounted
+93687a username1 C40531 #accounted
+5a7b90 username1 C40531 #accounted
+acdd98 username1 C40531 #accounted
+e9c913 username1 C40531 #accounted
+490d21 username1 C40531 #accounted
+716f36 username1 C40531 #accounted
+c3c6bf username1 C40531 #accounted
+962268 username1 C40531 #accounted
+f813cc username1 C40531 #accounted
 
 ##location
 
