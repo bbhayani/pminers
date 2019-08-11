@@ -9,7 +9,7 @@ global poolpass1 x
 global sendworker1 yes
 
 global maxwatts 1600
-global maxtemp 90
+global maxtemp 90 1
 global throttle 80
 
 global panelclear 5
