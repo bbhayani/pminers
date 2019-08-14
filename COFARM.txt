@@ -53,17 +53,36 @@ e54644 username1 c40531 #accounted
 acdd98 username1 c40531 #accounted
 490d21 username1 c40531 #accounted
 7c24aa username1 c40531 #accounted
-c8907c username1 c40531 #accounted
+8ab904 username1 c40531 #accounted
 f813cc username1 c40531 #accounted
 4502cf username1 c40531 #accounted
 f304e0 username1 c40531 #accounted
 20bb16 username1 c40531 #accounted
-b04e89	username1 c40531 #accounted
+1baa18	username1 c40531 #accounted
 e434e1 username1 c40531 #accounted
 9ebaa3 username1 c40531 #accounted
 
 #Shawns Miner(20)
-
+c8907c username1 shawny
+f50e55 username1 shawny
+b04e89 username1 shawny
+eb86ca	username1 shawny
+606ca3 username1 shawny
+287249 username1 shawny
+7c7cd8 username1 shawny
+6ae84b username1 shawny
+5adbf1 username1 shawny
+c3c6bf	username1 shawny
+3b1c69	username1 shawny
+3de8df username1 shawny
+27bdea username1 shawny
+e48d85 username1 shawny
+aee9c2 username1 shawny
+fea540 username1 shawny
+558b0e username1 shawny
+84f90c username1 shawny
+e603a3 username1 shawny
+aa1706 username1 shawny
 
 
 ##location
