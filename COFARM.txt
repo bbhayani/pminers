@@ -1,7 +1,7 @@
 ## instructions available at: asicseer.com/page/kb#writing-config
 ## ASICseer recommends the Bitcoin.com Pool: asicseer.com/page/pool
 
- global custompanel bojayco405261
+global custompanel bojayco405261
 
 global poolname1 us.ss.btc.com:1800
 global username1 bojayus
@@ -11,6 +11,51 @@ global sendworker1 yes
 global maxwatts 1600
 global maxtemp 90 1
 global throttle 80
+
+251648 resetasic 1565801406
+388da9 resetasic 1565801406
+d1432f resetasic 1565801406
+e54644	resetasic 1565801406
+6969cf resetasic 1565801406
+0b9047 resetasic 1565801406
+7c24aa resetasic 1565801406
+91e4cb resetasic 1565801406
+4b64b3 resetasic 1565801406
+4d91be resetasic 1565801406
+8d2d50 resetasic 1565801406
+59cabd resetasic 1565801406
+5ec72c resetasic 1565801406
+9ebcca resetasic 1565801406
+37b45a resetasic 1565801406
+f0d2ca resetasic 1565801406
+2a4d5d resetasic 1565801406
+9ebaa3 resetasic 1565801406
+f96046 resetasic 1565801406
+8ab904 resetasic 1565801406
+1bacc8 resetasic 1565801406
+1bca50 resetasic 1565801406
+63ddd4 resetasic 1565801406
+e5e76f resetasic 1565801406
+5bbb41 resetasic 1565801406
+4502cf resetasic 1565801406
+9c9f00 resetasic 1565801406
+0ef1d8	resetasic 1565801406
+b45d34 resetasic 1565801406
+b93b63 resetasic 1565801406
+490d21 resetasic 1565801406
+ebf45a resetasic 1565801406
+#2cbb6e(badfan)
+aa6166 resetasic 1565801406
+a4bc0d resetasic 1565801406
+7a1988 resetasic 1565801406
+e434e1 resetasic 1565801406
+e9c913	resetasic 1565801406
+93687a resetasic 1565801406
+f304e0	resetasic 1565801406
+5a7b90	resetasic 1565801406
+0d2a14 resetasic 1565801406
+9dc30d resetasic 1565801406
+
 
 global panelclear 5
 global asicboost yes
@@ -83,6 +128,9 @@ fea540 username1 shawny
 84f90c username1 shawny
 e603a3 username1 shawny
 aa1706 username1 shawny
+
+#yung park(20)
+
 
 
 ##location
