@@ -12,45 +12,6 @@ global maxwatts 1600
 global maxtemp 90 1
 global throttle 80
 
-d01b02 resetasic 1565801407
-2a4d5d resetasic 1565801407
-8d2d50 resetasic 1565801407
-d1432f resetasic 1565801407
-f97430 resetasic 1565801407
-1e6935 resetasic 1565801407
-2cbb6e resetasic 1565801407
-e9b953 resetasic 1565801407
-dbcda3 resetasic 1565801407
-5bbb41 resetasic 1565801407
-8740e0 resetasic 1565801407
-08181d resetasic 1565801407
-5bed22 resetasic 1565801407
-4e6b11 resetasic 1565801407
-a446d6 resetasic 1565801407
-60b1fd resetasic 1565801407
-37b45a resetasic 1565801407
-019b9d resetasic 1565801407
-b93b63 resetasic 1565801407
-f0d2ca resetasic 1565801407
-e6a2bc resetasic 1565801407
-4b64b3 resetasic 1565801407
-f813cc resetasic 1565801407
-fb9c69 resetasic 1565801407
-9ebcca resetasic 1565801407
-a00695 resetasic 1565801407
-255d5a resetasic 1565801407
-d35343 resetasic 1565801407
-9c9f00 resetasic 1565801407
-7c24aa resetasic 1565801407
-8f6a35 resetasic 1565801407
-77a324 resetasic 1565801407
-124fa6 resetasic 1565801407
-785f90 resetasic 1565801407
-2084ca resetasic 1565801407
-962268 resetasic 1565801407
-a84877 resetasic 1565801407
-e6211a resetasic 1565801407
-ef76b1 resetasic 1565801407
 
 
 
@@ -159,10 +120,18 @@ ebf45a username1 yungp
 
 ##location
 
-2a4d5d rebootasic 1565546777 # 10.21.1.32 set1
-4502cf rebootasic 1565546777 # 10.21.1.144 set2
-ebf45a rebootasic 1565546777 # 10.21.1.22 antminers9-36
-d01b02 rebootasic 1565546777 # 10.21.1.64 set4
+1baa18 rebootasic 1568883924 # 10.21.1.114 set1
+1e6935 rebootasic 1568883924 # 10.21.1.24 set2
+7c24aa rebootasic 1568883924 # 10.21.1.36 set3
+8f6a35 rebootasic 1568883924 # 10.21.1.138 set4
+9c9f00 rebootasic 1568883924 # 10.21.1.68 set5
+115f25 rebootasic 1568883924 # 10.21.1.59 set6
+124fa6 rebootasic 1568883924 # 10.21.1.91 set7
+785f90 rebootasic 1568883924 # 10.21.1.125 set8
+2084ca rebootasic 1568883924 # 10.21.1.4 set9
+a4bc0d rebootasic 1568883924 # 10.21.1.98 set10
+e6211a rebootasic 1568883924 # 10.21.1.23 set11
+f0d2ca rebootasic 1568883924 # 10.21.1.3 set12
 
 ## asic password
 asicpass admin
